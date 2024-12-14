@@ -4,7 +4,7 @@ Dynamic Expandable RecyclerView for Android with pretty animations. You can drag
 ## Pictures
 ![alt text][logo1]
 
-[logo1]: https://github.com/ounger/DynExRecyclerView/blob/master/pictures/collage.png ""
+[logo1]: /pictures/collage.png ""
 
 
 ## Features
